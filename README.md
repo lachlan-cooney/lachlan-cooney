@@ -1,6 +1,6 @@
 ## 01001000 01000101 01001100 01001100 01001111 👋
 
-🚀 I enjoy making random, mostly useless software<br/>
+🚀 I enjoy coding random, mostly useless sh*te<br/>
 🧑‍🎓 I'm studying software engineering at the University of Exeter<br/>
 ✍️ I also write a weekly [newsletter](https://www.wattsforward.com/) about the business behind clean tech<br/>
 
